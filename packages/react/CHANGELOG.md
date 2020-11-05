@@ -18,23 +18,23 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.7 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-ui/react
 
 # 1.0.0-rc.6 (2020-10-25)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-ui/react
 
 # 1.0.0-rc.5 (2020-09-27)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-ui/react
 
 # 1.0.0-rc.4 (2020-09-25)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-ui/react
 
 # 1.0.0-rc.3 (2020-08-30)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-ui/react
 
 # Change Log
 
@@ -43,14 +43,14 @@ All notable changes to this project will be documented in this file. See
 
 # 1.0.0-rc.2 (2020-08-09)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-ui/react
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@1.0.0-rc.0...@chakra-ui/core@1.0.0-rc.1) (2020-08-06)
+# [1.0.0-rc.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@1.0.0-rc.0...@chakra-ui/react@1.0.0-rc.1) (2020-08-06)
 
 ### Bug Fixes
 
@@ -62,34 +62,34 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@1.0.0-next.7...@chakra-ui/core@1.0.0-rc.0) (2020-07-26)
+# [1.0.0-rc.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@1.0.0-next.7...@chakra-ui/react@1.0.0-rc.0) (2020-07-26)
 
-**Note:** Version bump only for package @chakra-ui/core
-
-# Change Log
-
-All notable changes to this project will be documented in this file. See
-[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
-# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@1.0.0-next.6...@chakra-ui/core@1.0.0-next.7) (2020-07-26)
-
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-ui/react
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@1.0.0-next.5...@chakra-ui/core@1.0.0-next.6) (2020-07-15)
+# [1.0.0-next.7](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@1.0.0-next.6...@chakra-ui/react@1.0.0-next.7) (2020-07-26)
 
-**Note:** Version bump only for package @chakra-ui/core
+**Note:** Version bump only for package @chakra-ui/react
 
 # Change Log
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@1.0.0-next.4...@chakra-ui/core@1.0.0-next.5) (2020-07-15)
+# [1.0.0-next.6](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@1.0.0-next.5...@chakra-ui/react@1.0.0-next.6) (2020-07-15)
+
+**Note:** Version bump only for package @chakra-ui/react
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [1.0.0-next.5](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@1.0.0-next.4...@chakra-ui/react@1.0.0-next.5) (2020-07-15)
 
 ### Bug Fixes
 
@@ -101,7 +101,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.4](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.8.0...@chakra-ui/core@1.0.0-next.4) (2020-07-01)
+# [1.0.0-next.4](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@0.8.0...@chakra-ui/react@1.0.0-next.4) (2020-07-01)
 
 ### Bug Fixes
 
@@ -119,7 +119,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.3](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.8.0...@chakra-ui/core@1.0.0-next.3) (2020-06-28)
+# [1.0.0-next.3](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@0.8.0...@chakra-ui/react@1.0.0-next.3) (2020-06-28)
 
 ### Bug Fixes
 
@@ -135,7 +135,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-next.2](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.8.0...@chakra-ui/core@1.0.0-next.2) (2020-06-21)
+# [1.0.0-next.2](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@0.8.0...@chakra-ui/react@1.0.0-next.2) (2020-06-21)
 
 ### Bug Fixes
 
@@ -149,7 +149,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.4.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.3.4...@chakra-ui/core@0.4.0) (2019-10-14)
+# [0.4.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@0.3.4...@chakra-ui/react@0.4.0) (2019-10-14)
 
 ### Bug Fixes
 
@@ -196,7 +196,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.4](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.3.3...@chakra-ui/core@0.3.4) (2019-10-09)
+## [0.3.4](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@0.3.3...@chakra-ui/react@0.3.4) (2019-10-09)
 
 ### Bug Fixes
 
@@ -208,7 +208,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.3](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.3.2...@chakra-ui/core@0.3.3) (2019-10-09)
+## [0.3.3](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@0.3.2...@chakra-ui/react@0.3.3) (2019-10-09)
 
 ### Bug Fixes
 
@@ -236,7 +236,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.2](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.3.1...@chakra-ui/core@0.3.2) (2019-09-26)
+## [0.3.2](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@0.3.1...@chakra-ui/react@0.3.2) (2019-09-26)
 
 ### Bug Fixes
 
@@ -257,7 +257,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.3.0...@chakra-ui/core@0.3.1) (2019-09-25)
+## [0.3.1](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@0.3.0...@chakra-ui/react@0.3.1) (2019-09-25)
 
 ### Bug Fixes
 
@@ -277,7 +277,7 @@ All notable changes to this project will be documented in this file. See
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.3.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.2.8...@chakra-ui/core@0.3.0) (2019-09-24)
+# [0.3.0](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/react@0.2.8...@chakra-ui/react@0.3.0) (2019-09-24)
 
 ### Features
 
